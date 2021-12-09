@@ -1,6 +1,6 @@
 # CSS_Grid
 
-Neste repositório, você encontrará exercícios sobre os fundamentos da grade CSS, criando diferentes layouts complexos, incluindo um blog.
+Neste repositório, você encontrará exercícios do curso  realizado no Freecodcmap sobre os fundamentos da grade CSS, criando diferentes layouts complexos, incluindo um blog.
 
 
     1. Minha primeira grade CSS
